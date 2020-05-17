@@ -10,5 +10,16 @@
 - Baek Joon_15552번 빠른 A+B(for문)
 - Baek Joon_2438번 별찍기 - 1(for문)
 - Baek Joon_2741번 N 찍기(for문)
+- Baek Joon_11021번 A+B - 7(for문)
+- Baek Joon_15596번 정수 N개의 합(함수)
+- Baek Joon_11022번 A+B - 8(for문)
+- Baek Joon_2439번 별 찍기 - 2(for문)
+- Baek Joon_8393번 합(for문)
+- Baek Joon_10950번 A+B - 3(for문)
+- Baek Joon_10871번 X보다 작은 수(for문)
+- Baek Joon_2742번 기찍 N(for문)
+- Baek Joon_10818번 최소, 최대(1차원 배열)
 
 [Programmers (C++)]
+
+-
