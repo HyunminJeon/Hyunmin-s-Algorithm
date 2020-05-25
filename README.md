@@ -35,3 +35,5 @@
 - Programmers_최댓값 구하기 (SUM, MAX, MIN)
 - Programmers_고양이와 개는 몇 마리 있을까 (GROUP BY)
 - Programmers_이름이 없는 동물의 아이디 (IS NULL)
+- Programmers_아픈 동물 찾기 (SELECT)
+- Programmers_어린 동물 찾기 (SELECT)
