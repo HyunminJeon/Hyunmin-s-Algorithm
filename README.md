@@ -43,4 +43,5 @@
 - Programmers_고양이와 개는 몇 마리 있을까 (GROUP BY)
 - Programmers_동명 동물 수 찾기 (GROUP BY)
 - Programmers_입양 시각 구하기(1) (GROUP BY)
+- Programmers_입양 시각 구하기(2) (GROUP BY)
 - Programmers_이름이 없는 동물의 아이디 (IS NULL)
