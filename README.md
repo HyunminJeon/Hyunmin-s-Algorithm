@@ -36,6 +36,7 @@
 - Programmers_어린 동물 찾기 (SELECT)
 - Programmers_동물의 아이디와 이름 (SELECT)
 - Programmers_여러 기준으로 정렬하기 (SELECT)
+- Programmers_상위 n개 레코드 (SELECT)
 - Programmers_최댓값 구하기 (SUM, MAX, MIN)
 - Programmers_최솟값 구하기 (SUM, MAX, MIN)
 - Programmers_동물 수 구하기 (SUM, MAX, MIN)
