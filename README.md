@@ -47,3 +47,4 @@
 - Programmers_입양 시각 구하기(2) (GROUP BY)
 - Programmers_이름이 없는 동물의 아이디 (IS NULL)
 - Programmers_이름이 있는 동물의 아이디 (IS NULL)
+- Programmers_NULL 처리하기(IS NULL)
