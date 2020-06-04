@@ -19,6 +19,7 @@
 - Baek Joon_10871번 X보다 작은 수(for문)
 - Baek Joon_2742번 기찍 N(for문)
 - Baek Joon_10818번 최소, 최대(1차원 배열)
+- Baek Joon_2884번 알람 시계(구현)
 
 [Programmers (C++)]
 
