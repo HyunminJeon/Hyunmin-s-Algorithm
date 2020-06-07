@@ -50,3 +50,4 @@
 - Programmers_이름이 있는 동물의 아이디 (IS NULL)
 - Programmers_NULL 처리하기 (IS NULL)
 - Programmers_루시와 엘라 찾기 (String, Date)
+- Programmers_이름에 el이 들어가는 동물 찾기 (String, Date)
