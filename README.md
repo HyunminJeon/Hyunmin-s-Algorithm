@@ -19,8 +19,10 @@
 - Baek Joon_10871번 X보다 작은 수(for문)
 - Baek Joon_2742번 기찍 N(for문)
 - Baek Joon_10818번 최소, 최대(1차원 배열)
+- Baek Joon_1431번 시리얼 번호(정렬)
+- Baek Joon_2447번 별 찍기 - 10(재귀)
 - Baek Joon_2884번 알람 시계(구현)
-
+- Baek Joon_7568번 덩치(브루트포스)
 [Programmers (C++)]
 
 - Programmers_크레인 인형뽑기 게임 (Level 1)
