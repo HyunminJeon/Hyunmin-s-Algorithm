@@ -55,3 +55,4 @@
 - Programmers_루시와 엘라 찾기 (String, Date)
 - Programmers_이름에 el이 들어가는 동물 찾기 (String, Date)
 - Programmers_중성화 여부 파악하기 (String, Date)
+- Programmers_없어진 기록 찾기 (JOIN)
