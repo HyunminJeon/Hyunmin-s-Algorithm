@@ -55,6 +55,7 @@
 - Programmers_없어진 기록 찾기 (JOIN)
 - Programmers_있었는데요 없었습니다 (JOIN)
 - Programmers_오랜 기간 보호한 동물(1) (JOIN)
+- Programmers_보호소에서 중성화한 동물 (JOIN)
 - Programmers_루시와 엘라 찾기 (String, Date)
 - Programmers_이름에 el이 들어가는 동물 찾기 (String, Date)
 - Programmers_중성화 여부 파악하기 (String, Date)
